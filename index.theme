@@ -1,3 +1,5 @@
 [Icon Theme]
-Name=goglus_cursor
+Name=Goglus
+Comment=Neutral cursor theme by goglus
+Inherits="hicolor"
 Example=left_ptr_watch
