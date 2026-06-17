@@ -1,5 +1,5 @@
 [Icon Theme]
 Name=Goglus
 Comment=Neutral cursor theme by goglus
-Inherits="hicolor"
+# Inherits= removed: theme is self-contained
 Example=left_ptr
